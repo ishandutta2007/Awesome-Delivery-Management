@@ -7,6 +7,8 @@
 *Focused on Last-Mile Delivery, Fleet Management & Logistics Optimization*  
 **Last updated: March 2026**
 
+Discover the ultimate list of the best delivery management software, last-mile logistics routing tools, fleet management platforms, and open-source dispatch tracking systems to optimize your supply chain operations.
+
 This repository tracks notable **SaaS platforms** and **open-source projects** for **Delivery Management**. These tools handle order dispatching, real-time tracking, route optimization, driver management, proof of delivery, and last-mile logistics for businesses of all sizes.
 
 **Examples** include Shipsy, FarEye, LogiNext, Onfleet, Bringg, DispatchTrack, Track-POD, Elite EXTRA, Shipday, Locate2u, Deliverect, Circuit, GetSwift, and Tookan (the category leaders). Tools listed here emphasize **real-time visibility**, automated routing, customer notifications, and scalability.
