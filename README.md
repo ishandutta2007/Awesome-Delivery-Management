@@ -1,7 +1,7 @@
 ![Banner](./assets/banner.svg)
 
 # Awesome-Delivery-Management
-## Top Delivery Management Ecosystem
+## 🚀 Top Delivery Management Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Last-Mile Delivery, Fleet Management & Logistics Optimization*  
@@ -15,13 +15,13 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
-## Table of Contents
+## 📑 Table of Contents
 - [SaaS/Hosted Platforms](#saas-products)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
-## SaaS/Hosted Platforms
+## ☁️ SaaS/Hosted Platforms
 
 ### Core Platforms (Delivery Management)
 
@@ -42,7 +42,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Shipday](https://www.shipday.com/)** | Delivery management platform focused on local and last-mile operations. | **Free tier: Up to 300 orders/month**, then starts at $29/mo | | ~$5M |
 | **[GetSwift](https://getswift.co/)** | Delivery logistics platform with real-time tracking and automation. | Pay-per-delivery (approx $0.28/task) | | N/A |
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
 ### Dedicated Delivery Management & Logistics Tools
 
@@ -87,7 +87,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 **Frameworks for building custom systems**: Combine **OSRM**, **GraphHopper**, **VROOM**, **Odoo**, and **n8n** with **Traccar** to create fully open, self-hosted delivery management platforms.
 
-## How to Contribute
+## 🤝 How to Contribute
 
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing format).
@@ -96,7 +96,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 Star the repo if you find it useful!
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - Delivery management systems must comply with local transportation, data privacy, and labor regulations.
