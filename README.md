@@ -23,22 +23,22 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (Delivery Management)
 
-| Product | Description | Pricing & Free Tier |
-|---------|-------------|---------------------|
-| **[Shipsy](https://shipsy.io/)** | AI-powered logistics platform for last-mile delivery and fleet optimization. | Enterprise pricing (Custom quote) |
-| **[FarEye](https://fareye.com/)** | Comprehensive delivery management and customer experience platform. | Enterprise pricing (Custom quote) |
-| **[LogiNext](https://loginextsolutions.com/)** | Intelligent logistics and delivery management solution with real-time tracking. | Enterprise pricing (Custom quote) |
-| **[Onfleet](https://onfleet.com/)** | Last-mile delivery management platform with route optimization and driver apps. | Starts at ~$500/mo (No free tier) |
-| **[Bringg](https://www.bringg.com/)** | Delivery and fulfillment orchestration platform for complex logistics. | Enterprise pricing (Custom quote) |
-| **[DispatchTrack](https://www.dispatchtrack.com/)** | Delivery management software with scheduling and customer communication. | Enterprise pricing (Custom quote) |
-| **[Track-POD](https://www.track-pod.com/)** | Route planning and proof-of-delivery platform for delivery teams. | Starts at ~$29/mo (No free tier) |
-| **[Elite EXTRA](https://www.eliteextra.com/)** | Delivery and logistics management solution with advanced tracking. | Custom pricing (No free tier) |
-| **[Shipday](https://www.shipday.com/)** | Delivery management platform focused on local and last-mile operations. | **Free tier: Up to 300 orders/month**, then starts at $29/mo |
-| **[Locate2u](https://www.locate2u.com/)** | Real-time tracking and delivery management tool for field teams. | Starts at ~$49/mo (No free tier) |
-| **[Deliverect](https://www.deliverect.com/)** | Order management and delivery integration platform for restaurants and multi-channel delivery. | Custom pricing (No free tier) |
-| **[Circuit](https://getcircuit.com/)** | Route optimization and delivery planning software for drivers and fleets. | Route planner free for 10 stops, Teams starts at ~$100/mo |
-| **[GetSwift](https://getswift.co/)** | Delivery logistics platform with real-time tracking and automation. | Pay-per-delivery (approx $0.28/task) |
-| **[Tookan](https://tookan.app/)** | On-demand delivery and field service management platform. | Starts at ~$99/mo (14-day free trial, no free tier) |
+| Product | Description | Pricing & Free Tier | | Valuation/Revenue |
+|---------|-------------|---------------------|-------------------|
+| **[Deliverect](https://www.deliverect.com/)** | Order management and delivery integration platform for restaurants and multi-channel delivery. | Custom pricing (No free tier) | | ~$1400M |
+| **[Bringg](https://www.bringg.com/)** | Delivery and fulfillment orchestration platform for complex logistics. | Enterprise pricing (Custom quote) | | ~$1000M |
+| **[FarEye](https://fareye.com/)** | Comprehensive delivery management and customer experience platform. | Enterprise pricing (Custom quote) | | ~$100M |
+| **[DispatchTrack](https://www.dispatchtrack.com/)** | Delivery management software with scheduling and customer communication. | Enterprise pricing (Custom quote) | | ~$100M |
+| **[Shipsy](https://shipsy.io/)** | AI-powered logistics platform for last-mile delivery and fleet optimization. | Enterprise pricing (Custom quote) | | ~$50M |
+| **[LogiNext](https://loginextsolutions.com/)** | Intelligent logistics and delivery management solution with real-time tracking. | Enterprise pricing (Custom quote) | | ~$50M |
+| **[Onfleet](https://onfleet.com/)** | Last-mile delivery management platform with route optimization and driver apps. | Starts at ~$500/mo (No free tier) | | ~$20M |
+| **[Circuit](https://getcircuit.com/)** | Route optimization and delivery planning software for drivers and fleets. | Route planner free for 10 stops, Teams starts at ~$100/mo | | ~$20M |
+| **[Track-POD](https://www.track-pod.com/)** | Route planning and proof-of-delivery platform for delivery teams. | Starts at ~$29/mo (No free tier) | | ~$10M |
+| **[Elite EXTRA](https://www.eliteextra.com/)** | Delivery and logistics management solution with advanced tracking. | Custom pricing (No free tier) | | ~$10M |
+| **[Locate2u](https://www.locate2u.com/)** | Real-time tracking and delivery management tool for field teams. | Starts at ~$49/mo (No free tier) | | ~$10M |
+| **[Tookan](https://tookan.app/)** | On-demand delivery and field service management platform. | Starts at ~$99/mo (14-day free trial, no free tier) | | ~$10M |
+| **[Shipday](https://www.shipday.com/)** | Delivery management platform focused on local and last-mile operations. | **Free tier: Up to 300 orders/month**, then starts at $29/mo | | ~$5M |
+| **[GetSwift](https://getswift.co/)** | Delivery logistics platform with real-time tracking and automation. | Pay-per-delivery (approx $0.28/task) | | N/A |
 
 ## Open-Source GitHub Projects
 

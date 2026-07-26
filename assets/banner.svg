@@ -1,0 +1,25 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2c3e50" />
+      <stop offset="100%" stop-color="#3498db" />
+    </linearGradient>
+    <style>
+      @keyframes float {
+        0% { transform: translateY(0px); }
+        50% { transform: translateY(-10px); }
+        100% { transform: translateY(0px); }
+      }
+      .title { font-family: system-ui, sans-serif; font-size: 48px; font-weight: bold; fill: white; }
+      .subtitle { font-family: system-ui, sans-serif; font-size: 24px; fill: #ecf0f1; }
+      .box { animation: float 3s ease-in-out infinite; }
+    </style>
+  </defs>
+  <rect width="800" height="200" fill="url(#bg)" rx="15" />
+  <g class="box" transform="translate(650, 70)">
+    <rect width="60" height="60" fill="#f1c40f" rx="10" />
+    <path d="M20 20 L40 20 L30 40 Z" fill="#e67e22" />
+  </g>
+  <text x="50" y="90" class="title">Awesome Delivery Management</text>
+  <text x="50" y="140" class="subtitle">The Best SaaS &amp; Open Source Logistics Tools</text>
+</svg>
