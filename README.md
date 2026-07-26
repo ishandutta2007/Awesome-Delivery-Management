@@ -31,55 +31,55 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (Delivery Management)
 
-| Product | Description | Pricing & Free Tier | | Valuation/Revenue |
+| Product | Description | Pricing & Free Tier | Valuation/Revenue |
 |---------|-------------|---------------------|-------------------|
-| **[Deliverect](https://www.deliverect.com/)** | Order management and delivery integration platform for restaurants and multi-channel delivery. | Custom pricing (No free tier) | | ~$1400M |
-| **[Bringg](https://www.bringg.com/)** | Delivery and fulfillment orchestration platform for complex logistics. | Enterprise pricing (Custom quote) | | ~$1000M |
-| **[FarEye](https://fareye.com/)** | Comprehensive delivery management and customer experience platform. | Enterprise pricing (Custom quote) | | ~$100M |
-| **[DispatchTrack](https://www.dispatchtrack.com/)** | Delivery management software with scheduling and customer communication. | Enterprise pricing (Custom quote) | | ~$100M |
-| **[Shipsy](https://shipsy.io/)** | AI-powered logistics platform for last-mile delivery and fleet optimization. | Enterprise pricing (Custom quote) | | ~$50M |
-| **[LogiNext](https://loginextsolutions.com/)** | Intelligent logistics and delivery management solution with real-time tracking. | Enterprise pricing (Custom quote) | | ~$50M |
-| **[Onfleet](https://onfleet.com/)** | Last-mile delivery management platform with route optimization and driver apps. | Starts at ~$500/mo (No free tier) | | ~$20M |
-| **[Circuit](https://getcircuit.com/)** | Route optimization and delivery planning software for drivers and fleets. | Route planner free for 10 stops, Teams starts at ~$100/mo | | ~$20M |
-| **[Track-POD](https://www.track-pod.com/)** | Route planning and proof-of-delivery platform for delivery teams. | Starts at ~$29/mo (No free tier) | | ~$10M |
-| **[Elite EXTRA](https://www.eliteextra.com/)** | Delivery and logistics management solution with advanced tracking. | Custom pricing (No free tier) | | ~$10M |
-| **[Locate2u](https://www.locate2u.com/)** | Real-time tracking and delivery management tool for field teams. | Starts at ~$49/mo (No free tier) | | ~$10M |
-| **[Tookan](https://tookan.app/)** | On-demand delivery and field service management platform. | Starts at ~$99/mo (14-day free trial, no free tier) | | ~$10M |
-| **[Shipday](https://www.shipday.com/)** | Delivery management platform focused on local and last-mile operations. | **Free tier: Up to 300 orders/month**, then starts at $29/mo | | ~$5M |
-| **[GetSwift](https://getswift.co/)** | Delivery logistics platform with real-time tracking and automation. | Pay-per-delivery (approx $0.28/task) | | N/A |
+| **[Deliverect](https://www.deliverect.com/)** | Order management and delivery integration platform for restaurants and multi-channel delivery. | Custom pricing (No free tier) | ~$1400M |
+| **[Bringg](https://www.bringg.com/)** | Delivery and fulfillment orchestration platform for complex logistics. | Enterprise pricing (Custom quote) | ~$1000M |
+| **[FarEye](https://fareye.com/)** | Comprehensive delivery management and customer experience platform. | Enterprise pricing (Custom quote) | ~$100M |
+| **[DispatchTrack](https://www.dispatchtrack.com/)** | Delivery management software with scheduling and customer communication. | Enterprise pricing (Custom quote) | ~$100M |
+| **[Shipsy](https://shipsy.io/)** | AI-powered logistics platform for last-mile delivery and fleet optimization. | Enterprise pricing (Custom quote) | ~$50M |
+| **[LogiNext](https://loginextsolutions.com/)** | Intelligent logistics and delivery management solution with real-time tracking. | Enterprise pricing (Custom quote) | ~$50M |
+| **[Onfleet](https://onfleet.com/)** | Last-mile delivery management platform with route optimization and driver apps. | Starts at ~$500/mo (No free tier) | ~$20M |
+| **[Circuit](https://getcircuit.com/)** | Route optimization and delivery planning software for drivers and fleets. | Route planner free for 10 stops, Teams starts at ~$100/mo | ~$20M |
+| **[Track-POD](https://www.track-pod.com/)** | Route planning and proof-of-delivery platform for delivery teams. | Starts at ~$29/mo (No free tier) | ~$10M |
+| **[Elite EXTRA](https://www.eliteextra.com/)** | Delivery and logistics management solution with advanced tracking. | Custom pricing (No free tier) | ~$10M |
+| **[Locate2u](https://www.locate2u.com/)** | Real-time tracking and delivery management tool for field teams. | Starts at ~$49/mo (No free tier) | ~$10M |
+| **[Tookan](https://tookan.app/)** | On-demand delivery and field service management platform. | Starts at ~$99/mo (14-day free trial, no free tier) | ~$10M |
+| **[Shipday](https://www.shipday.com/)** | Delivery management platform focused on local and last-mile operations. | **Free tier: Up to 300 orders/month**, then starts at $29/mo | ~$5M |
+| **[GetSwift](https://getswift.co/)** | Delivery logistics platform with real-time tracking and automation. | Pay-per-delivery (approx $0.28/task) | N/A |
 
 ## 💻 Open-Source GitHub Projects
 
 ### Dedicated Delivery Management & Logistics Tools
 
-- **[n8n Delivery Workflows](https://github.com/n8n-io/n8n)**  
+- **[n8n Delivery Workflows](https://github.com/n8n-io/n8n)** [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
   Open-source automation tool for building custom order dispatch, tracking, and notification pipelines.
 
-- **[Odoo Logistics Modules](https://github.com/odoo/odoo)**  
+- **[Odoo Logistics Modules](https://github.com/odoo/odoo)** [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
   Full open-source ERP with powerful fleet, delivery, and inventory management modules.
 
-- **[ERPNext](https://github.com/frappe/erpnext)**  
+- **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
   Open-source ERP with strong delivery, fleet, and logistics capabilities.
 
-- **[OSRM (Open Source Routing Machine)](https://github.com/Project-OSRM/osrm-backend)**  
+- **[OSRM (Open Source Routing Machine)](https://github.com/Project-OSRM/osrm-backend)** [![GitHub stars](https://img.shields.io/github/stars/Project-OSRM/osrm-backend?style=social&color=white)](https://github.com/Project-OSRM/osrm-backend/stargazers)  
   High-performance open-source routing engine ideal for delivery route optimization.
 
-- **[GraphHopper](https://github.com/graphhopper/graphhopper)**  
+- **[GraphHopper](https://github.com/graphhopper/graphhopper)** [![GitHub stars](https://img.shields.io/github/stars/graphhopper/graphhopper?style=social&color=white)](https://github.com/graphhopper/graphhopper/stargazers)  
   Open-source routing library and server with excellent support for vehicle routing problems.
 
-- **[Valhalla](https://github.com/valhalla/valhalla)**  
+- **[Valhalla](https://github.com/valhalla/valhalla)** [![GitHub stars](https://img.shields.io/github/stars/valhalla/valhalla?style=social&color=white)](https://github.com/valhalla/valhalla/stargazers)  
   Open-source routing engine designed for high-performance and flexible delivery routing.
 
-- **[OpenRouteService](https://github.com/GIScience/openrouteservice)**  
+- **[OpenRouteService](https://github.com/GIScience/openrouteservice)** [![GitHub stars](https://img.shields.io/github/stars/GIScience/openrouteservice?style=social&color=white)](https://github.com/GIScience/openrouteservice/stargazers)  
   Open-source routing service based on OpenStreetMap data with advanced logistics features.
 
-- **[VROOM](https://github.com/VROOM-Project/vroom)**  
+- **[VROOM](https://github.com/VROOM-Project/vroom)** [![GitHub stars](https://img.shields.io/github/stars/VROOM-Project/vroom?style=social&color=white)](https://github.com/VROOM-Project/vroom/stargazers)  
   Open-source vehicle routing optimization engine for delivery fleets.
 
-- **[OptaPlanner](https://github.com/kiegroup/optaplanner)**  
+- **[OptaPlanner](https://github.com/kiegroup/optaplanner)** [![GitHub stars](https://img.shields.io/github/stars/kiegroup/optaplanner?style=social&color=white)](https://github.com/kiegroup/optaplanner/stargazers)  
   Open-source constraint solver excellent for vehicle routing and delivery optimization problems.
 
-- **[OpenStreetMap](https://github.com/openstreetmap)**  
+- **[OpenStreetMap](https://github.com/openstreetmap)** [![GitHub stars](https://img.shields.io/github/stars/openstreetmap/openstreetmap-website?style=social&color=white)](https://github.com/openstreetmap/openstreetmap-website/stargazers)  
   Foundational open map data used by almost all open-source routing and delivery systems.
 
 ### Additional Strong Open-Source Options
