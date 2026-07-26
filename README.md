@@ -44,24 +44,6 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Dedicated Delivery Management & Logistics Tools
 
-- **[OSRM (Open Source Routing Machine)](https://github.com/Project-OSRM/osrm-backend)**  
-  High-performance open-source routing engine ideal for delivery route optimization.
-
-- **[GraphHopper](https://github.com/graphhopper/graphhopper)**  
-  Open-source routing library and server with excellent support for vehicle routing problems.
-
-- **[OpenRouteService](https://github.com/GIScience/openrouteservice)**  
-  Open-source routing service based on OpenStreetMap data with advanced logistics features.
-
-- **[Valhalla](https://github.com/valhalla/valhalla)**  
-  Open-source routing engine designed for high-performance and flexible delivery routing.
-
-- **[OptaPlanner](https://github.com/kiegroup/optaplanner)**  
-  Open-source constraint solver excellent for vehicle routing and delivery optimization problems.
-
-- **[VROOM](https://github.com/VROOM-Project/vroom)**  
-  Open-source vehicle routing optimization engine for delivery fleets.
-
 - **[n8n Delivery Workflows](https://github.com/n8n-io/n8n)**  
   Open-source automation tool for building custom order dispatch, tracking, and notification pipelines.
 
@@ -70,6 +52,24 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 - **[ERPNext](https://github.com/frappe/erpnext)**  
   Open-source ERP with strong delivery, fleet, and logistics capabilities.
+
+- **[OSRM (Open Source Routing Machine)](https://github.com/Project-OSRM/osrm-backend)**  
+  High-performance open-source routing engine ideal for delivery route optimization.
+
+- **[GraphHopper](https://github.com/graphhopper/graphhopper)**  
+  Open-source routing library and server with excellent support for vehicle routing problems.
+
+- **[Valhalla](https://github.com/valhalla/valhalla)**  
+  Open-source routing engine designed for high-performance and flexible delivery routing.
+
+- **[OpenRouteService](https://github.com/GIScience/openrouteservice)**  
+  Open-source routing service based on OpenStreetMap data with advanced logistics features.
+
+- **[VROOM](https://github.com/VROOM-Project/vroom)**  
+  Open-source vehicle routing optimization engine for delivery fleets.
+
+- **[OptaPlanner](https://github.com/kiegroup/optaplanner)**  
+  Open-source constraint solver excellent for vehicle routing and delivery optimization problems.
 
 - **[OpenStreetMap](https://github.com/openstreetmap)**  
   Foundational open map data used by almost all open-source routing and delivery systems.
